@@ -2,7 +2,7 @@
 
 Identifies the category of foliar diseases in apple trees
 
-Current Kaggelscore: 0.897
+Current Kaggelscore: 0.917 
 
 To DO:
 - advanced preprocessing of images
