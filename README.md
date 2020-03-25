@@ -6,5 +6,8 @@ Current Kaggelscore: 0.897
 
 To DO:
 - advanced preprocessing of images
+    - color
+    - grayscale
+    - leafsegment
 - more epochs
 - more trainable layers?
