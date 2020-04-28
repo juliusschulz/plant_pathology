@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 ## Usage
 ```
-run all cells
+run disease_classification notebook
 
 To DO:
 - advanced preprocessing of images
