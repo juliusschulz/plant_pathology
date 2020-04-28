@@ -13,7 +13,6 @@ pip install -r requirements.txt
 ## Usage
 ```
 run disease_classification notebook
-
 ```
 
 To DO:
