@@ -1,6 +1,6 @@
 # plant_patholgy
 
-Identifies the category of foliar diseases in apple trees
+A neural network to identify foliar diseases in apple trees.
 
 Current Kaggelscore: 0.917 
 
