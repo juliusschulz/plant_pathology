@@ -14,6 +14,8 @@ pip install -r requirements.txt
 ```
 run disease_classification notebook
 
+```
+
 To DO:
 - advanced preprocessing of images
     - color
