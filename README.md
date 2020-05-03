@@ -22,4 +22,4 @@ To DO:
     - leafsegment
 - more epochs
 - more trainable layers?
-- add requirements
+- add requirements.txt
