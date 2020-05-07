@@ -21,5 +21,5 @@ To DO:
     - grayscale
     - leafsegment
 - more epochs
-- more trainable layers?
+- change layer configuration?
 - add requirements.txt
