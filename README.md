@@ -22,4 +22,3 @@ To DO:
     - leafsegment
 - more epochs
 - change layer configuration?
-- add requirements.txt
